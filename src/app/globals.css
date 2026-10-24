@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #fb8500;
+  --color-secondary: #ffb81c;
+  --color-accent: #ffd60a;
+  --color-ink: #1e293b;
+  --color-ink-soft: #64748b;
+  --color-peach-50: #fffbf5;
+  --font-lora: 'Lora', Georgia, serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  background-color: #fafaf9;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 100%;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+  touch-action: pan-y;
+}
+
+h1, h2, h3, .font-serif, .font-lora {
+  font-family: var(--font-lora);
+}
+
+.primary-gradient {
+  background: linear-gradient(135deg, #fb8500 0%, #ffb81c 100%);
+}
+
+.accent-gradient {
+  background: linear-gradient(135deg, #ffd60a 0%, #ffb81c 100%);
+}
+
+.brand-gradient {
+  background: linear-gradient(135deg, #fb8500 0%, #ffd60a 100%);
+}
+
+.sunrise-gradient {
+  background: linear-gradient(135deg, #fb8500 0%, #ffb81c 100%);
+}
+
+.blue-gradient {
+  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+}
+
+.glass {
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.88);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.glass-dark {
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card-lift {
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 25px -5px rgba(251, 133, 0, 0.12), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

@@ -1,0 +1,18 @@
+User-Agent: *
+Allow: /
+Allow: /ads
+Allow: /api/
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /login
+Disallow: /register
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /_next/
+Disallow: /api/admin/
+Crawl-delay: 1
+
+User-Agent: Googlebot
+Allow: /
+
+Sitemap: https://wrkzone.com/sitemap.xml

@@ -1,0 +1,1921 @@
+(globalThis["TURBOPACK"] || (globalThis["TURBOPACK"] = [])).push([typeof document === "object" ? document.currentScript : undefined,
+(()=>{"use strict";return[
+"[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "__iconData",
+    ()=>__iconData,
+    "default",
+    ()=>ArrowRight
+]);
+/**
+ * @license lucide-react v1.61.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.mjs [app-client] (ecmascript)");
+;
+const __iconData = {
+    name: "arrow-right",
+    size: 24,
+    node: [
+        [
+            "path",
+            {
+                d: "M5 12h14",
+                key: "1ays0h"
+            }
+        ],
+        [
+            "path",
+            {
+                d: "m12 5 7 7-7 7",
+                key: "xquz4c"
+            }
+        ]
+    ]
+};
+__iconData.node;
+const ArrowRight = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])(__iconData);
+;
+}),
+"[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.mjs [app-client] (ecmascript) <export default as ArrowRight>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "ArrowRight",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.mjs [app-client] (ecmascript)");
+}),
+"[project]/node_modules/lucide-react/dist/esm/icons/map-pin.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "__iconData",
+    ()=>__iconData,
+    "default",
+    ()=>MapPin
+]);
+/**
+ * @license lucide-react v1.61.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.mjs [app-client] (ecmascript)");
+;
+const __iconData = {
+    name: "map-pin",
+    size: 24,
+    node: [
+        [
+            "path",
+            {
+                d: "M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0",
+                key: "1r0f0z"
+            }
+        ],
+        [
+            "circle",
+            {
+                cx: "12",
+                cy: "10",
+                r: "3",
+                key: "ilqhr7"
+            }
+        ]
+    ]
+};
+__iconData.node;
+const MapPin = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])(__iconData);
+;
+}),
+"[project]/node_modules/lucide-react/dist/esm/icons/map-pin.mjs [app-client] (ecmascript) <export default as MapPin>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "MapPin",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/map-pin.mjs [app-client] (ecmascript)");
+}),
+"[project]/node_modules/lucide-react/dist/esm/icons/search.mjs [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "__iconData",
+    ()=>__iconData,
+    "default",
+    ()=>Search
+]);
+/**
+ * @license lucide-react v1.61.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.mjs [app-client] (ecmascript)");
+;
+const __iconData = {
+    name: "search",
+    size: 24,
+    node: [
+        [
+            "path",
+            {
+                d: "m21 21-4.34-4.34",
+                key: "14j7rj"
+            }
+        ],
+        [
+            "circle",
+            {
+                cx: "11",
+                cy: "11",
+                r: "8",
+                key: "4ej97u"
+            }
+        ]
+    ]
+};
+__iconData.node;
+const Search = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])(__iconData);
+;
+}),
+"[project]/node_modules/lucide-react/dist/esm/icons/search.mjs [app-client] (ecmascript) <export default as Search>", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "Search",
+    ()=>__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"]
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/search.mjs [app-client] (ecmascript)");
+}),
+"[project]/src/components/forms/SearchFilterBar.tsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "SearchFilterBar",
+    ()=>SearchFilterBar
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/navigation.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Search$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/search.mjs [app-client] (ecmascript) <export default as Search>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/map-pin.mjs [app-client] (ecmascript) <export default as MapPin>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.mjs [app-client] (ecmascript) <export default as ArrowRight>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/data.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+"use client";
+;
+;
+;
+;
+function SearchFilterBar({ initialQuery = "", initialCity = "", large = false }) {
+    _s();
+    const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
+    const [query, setQuery] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(initialQuery);
+    const [city, setCity] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(initialCity);
+    const handleSubmit = (e)=>{
+        e.preventDefault();
+        const params = new URLSearchParams();
+        if (query.trim()) params.set("q", query.trim());
+        if (city.trim()) params.set("city", city.trim());
+        router.push(`/ads?${params.toString()}`);
+    };
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
+        onSubmit: handleSubmit,
+        className: `flex flex-col gap-2 rounded-2xl sm:rounded-3xl bg-white p-2 sm:p-2.5 shadow-2xl ring-2 ring-neutral-200/80 sm:flex-row items-center ${large ? "max-w-4xl mx-auto" : "w-full"}`,
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "relative flex-1 w-full flex items-center",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Search$3e$__["Search"], {
+                        className: "absolute left-4 w-5 h-5 text-neutral-400 shrink-0"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 40,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
+                        type: "text",
+                        value: query,
+                        onChange: (e)=>setQuery(e.target.value),
+                        placeholder: "What service do you need? e.g. Pest control, Plumber, AC repair...",
+                        className: "w-full pl-12 pr-4 py-3 sm:py-3.5 text-sm sm:text-base font-medium text-neutral-900 placeholder-neutral-400 bg-transparent focus:outline-none"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 41,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                lineNumber: 39,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "hidden sm:block h-8 w-[1px] bg-neutral-200"
+            }, void 0, false, {
+                fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                lineNumber: 50,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "relative w-full sm:w-56 flex items-center",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
+                        className: "absolute left-3 w-4 h-4 text-fb8500 shrink-0"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 54,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
+                        value: city,
+                        onChange: (e)=>setCity(e.target.value),
+                        className: "w-full pl-9 pr-8 py-3 sm:py-3.5 text-sm sm:text-base font-medium text-neutral-800 bg-transparent focus:outline-none appearance-none cursor-pointer",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
+                                value: "",
+                                children: "All Cities"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                                lineNumber: 60,
+                                columnNumber: 11
+                            }, this),
+                            __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["POPULAR_METRO_CITIES"].map((c)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
+                                    value: c,
+                                    children: c
+                                }, c, false, {
+                                    fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                                    lineNumber: 62,
+                                    columnNumber: 13
+                                }, this))
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 55,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                        className: "absolute right-3 pointer-events-none text-xs text-neutral-400",
+                        children: "▼"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 67,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                lineNumber: 53,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                type: "submit",
+                className: "w-full sm:w-auto px-7 py-3 sm:py-3.5 rounded-xl sm:rounded-2xl font-bold text-sm sm:text-base text-white primary-gradient shadow-md shadow-fb8500/30 hover:shadow-lg hover:shadow-fb8500/40 hover:scale-[1.02] active:scale-[0.98] transition-all flex items-center justify-center gap-2 shrink-0 cursor-pointer",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                        children: "Search"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 77,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
+                        className: "w-4 h-4"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                        lineNumber: 78,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+                lineNumber: 73,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/forms/SearchFilterBar.tsx",
+        lineNumber: 32,
+        columnNumber: 5
+    }, this);
+}
+_s(SearchFilterBar, "LJiK84Rbttr8osnA8id1LnyDjb0=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"]
+    ];
+});
+_c = SearchFilterBar;
+var _c;
+__turbopack_context__.k.register(_c, "SearchFilterBar");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/home/FaqSection.tsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "FaqSection",
+    ()=>FaqSection
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/data.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+"use client";
+;
+;
+function FaqSection() {
+    _s();
+    const [openIdx, setOpenIdx] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(null);
+    const col1 = __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FAQS"].slice(0, 6);
+    const col2 = __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FAQS"].slice(6, 12);
+    const toggleFaq = (index)=>{
+        setOpenIdx(openIdx === index ? null : index);
+    };
+    const renderFaqItem = (faq, globalIdx)=>{
+        const isOpen = openIdx === globalIdx;
+        return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+            className: "group relative rounded-2xl overflow-hidden transition-all duration-300",
+            children: [
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: `absolute inset-0 bg-gradient-to-r ${isOpen ? "from-blue-600/15 to-fb8500/15" : "from-blue-600/0 to-fb8500/0"} group-hover:from-blue-600/10 group-hover:to-fb8500/10 rounded-2xl transition-all pointer-events-none`
+                }, void 0, false, {
+                    fileName: "[project]/src/components/home/FaqSection.tsx",
+                    lineNumber: 24,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "relative bg-white/90 backdrop-blur-sm ring-1 ring-neutral-200/80 group-hover:ring-fb8500/50 shadow-sm group-hover:shadow-md transition-all rounded-2xl",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                            onClick: ()=>toggleFaq(globalIdx),
+                            className: "w-full px-6 py-5 flex items-start gap-4 hover:bg-neutral-50/50 transition-all text-left focus:outline-none",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "text-2xl shrink-0 mt-0.5",
+                                    children: faq.icon
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/home/FaqSection.tsx",
+                                    lineNumber: 36,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex-1 flex items-center justify-between gap-3",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: "font-bold text-neutral-900 text-sm sm:text-base leading-snug group-hover:text-fb8500 transition-colors",
+                                            children: faq.question
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/FaqSection.tsx",
+                                            lineNumber: 38,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                            className: `text-fb8500 text-xs transition-transform duration-300 shrink-0 font-bold ${isOpen ? "rotate-180" : ""}`,
+                                            children: "▼"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/FaqSection.tsx",
+                                            lineNumber: 41,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/home/FaqSection.tsx",
+                                    lineNumber: 37,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/home/FaqSection.tsx",
+                            lineNumber: 32,
+                            columnNumber: 11
+                        }, this),
+                        isOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "px-6 pb-5 pt-1 text-sm text-neutral-600 leading-relaxed border-t border-neutral-100/80",
+                            children: faq.answer
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/home/FaqSection.tsx",
+                            lineNumber: 52,
+                            columnNumber: 13
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/home/FaqSection.tsx",
+                    lineNumber: 31,
+                    columnNumber: 9
+                }, this)
+            ]
+        }, globalIdx, true, {
+            fileName: "[project]/src/components/home/FaqSection.tsx",
+            lineNumber: 20,
+            columnNumber: 7
+        }, this);
+    };
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+        className: "mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-20 relative",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "absolute inset-0 -z-10 rounded-3xl bg-gradient-to-br from-blue-50/50 via-white to-orange-50/50 opacity-60 blur-3xl pointer-events-none"
+            }, void 0, false, {
+                fileName: "[project]/src/components/home/FaqSection.tsx",
+                lineNumber: 63,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "text-center mb-16",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "inline-block px-4 py-1.5 bg-gradient-to-r from-blue-600/10 to-fb8500/10 rounded-full border border-fb8500/30 mb-4",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                            className: "text-xs sm:text-sm font-bold bg-gradient-to-r from-blue-600 to-fb8500 bg-clip-text text-transparent",
+                            children: "❓ Got Questions?"
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/home/FaqSection.tsx",
+                            lineNumber: 68,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/FaqSection.tsx",
+                        lineNumber: 67,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        className: "text-3xl sm:text-5xl font-extrabold text-neutral-900 mb-4",
+                        children: [
+                            "Frequently Asked ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "bg-gradient-to-r from-blue-600 to-fb8500 bg-clip-text text-transparent",
+                                children: "Questions"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/home/FaqSection.tsx",
+                                lineNumber: 73,
+                                columnNumber: 28
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/home/FaqSection.tsx",
+                        lineNumber: 72,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "text-base sm:text-lg text-neutral-600 max-w-2xl mx-auto leading-relaxed",
+                        children: "Find answers to common questions about WrkZone"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/FaqSection.tsx",
+                        lineNumber: 75,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/home/FaqSection.tsx",
+                lineNumber: 66,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "grid md:grid-cols-2 gap-6",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "space-y-4",
+                        children: col1.map((faq, i)=>renderFaqItem(faq, i))
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/FaqSection.tsx",
+                        lineNumber: 82,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "space-y-4",
+                        children: col2.map((faq, i)=>renderFaqItem(faq, i + 6))
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/FaqSection.tsx",
+                        lineNumber: 85,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/home/FaqSection.tsx",
+                lineNumber: 81,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/home/FaqSection.tsx",
+        lineNumber: 62,
+        columnNumber: 5
+    }, this);
+}
+_s(FaqSection, "JHeU1KdNesf9XDvPtRBg+hOAqPM=");
+_c = FaqSection;
+var _c;
+__turbopack_context__.k.register(_c, "FaqSection");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/components/home/TestimonialsSection.tsx [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "TestimonialsSection",
+    ()=>TestimonialsSection
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/data.ts [app-client] (ecmascript)");
+;
+var _s = __turbopack_context__.k.signature();
+"use client";
+;
+;
+function TestimonialsSection() {
+    _s();
+    const [currentIndex, setCurrentIndex] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(0);
+    const current = __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TESTIMONIALS"][currentIndex];
+    const handlePrev = ()=>{
+        setCurrentIndex((prev)=>prev === 0 ? __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TESTIMONIALS"].length - 1 : prev - 1);
+    };
+    const handleNext = ()=>{
+        setCurrentIndex((prev)=>prev === __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TESTIMONIALS"].length - 1 ? 0 : prev + 1);
+    };
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+        className: "mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-20 relative",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "absolute inset-0 -z-10 rounded-3xl bg-gradient-to-br from-blue-50/50 via-white to-orange-50/50 opacity-60 blur-3xl pointer-events-none"
+            }, void 0, false, {
+                fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                lineNumber: 20,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "text-center mb-16",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "inline-block px-4 py-1.5 bg-gradient-to-r from-blue-600/10 to-fb8500/10 rounded-full border border-fb8500/30 mb-4",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                            className: "text-xs sm:text-sm font-bold bg-gradient-to-r from-blue-600 to-fb8500 bg-clip-text text-transparent",
+                            children: "⭐ Customer Testimonials"
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                            lineNumber: 25,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                        lineNumber: 24,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        className: "text-3xl sm:text-5xl font-extrabold text-neutral-900 mb-4",
+                        children: [
+                            "What Our ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "bg-gradient-to-r from-blue-600 to-fb8500 bg-clip-text text-transparent",
+                                children: "Customers Say"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                lineNumber: 30,
+                                columnNumber: 20
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                        lineNumber: 29,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "text-base sm:text-lg text-neutral-600 max-w-2xl mx-auto leading-relaxed",
+                        children: "Join thousands of satisfied customers who have found trusted professionals on WrkZone"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                        lineNumber: 32,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                lineNumber: 23,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "max-w-4xl mx-auto",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "relative group",
+                    children: [
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: `absolute inset-0 bg-gradient-to-br ${current.color} opacity-10 rounded-3xl blur-2xl group-hover:opacity-15 transition-opacity`
+                        }, void 0, false, {
+                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                            lineNumber: 40,
+                            columnNumber: 11
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                            className: "relative bg-white/90 backdrop-blur-md rounded-3xl p-8 sm:p-12 ring-1 ring-neutral-200/80 shadow-xl group-hover:ring-fb8500/40 transition-all duration-300",
+                            children: [
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex gap-1 mb-6 text-xl",
+                                    children: "⭐".repeat(current.rating)
+                                }, void 0, false, {
+                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                    lineNumber: 45,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                    className: "text-lg sm:text-2xl text-neutral-800 mb-10 leading-relaxed font-serif italic",
+                                    children: [
+                                        "“",
+                                        current.text,
+                                        "”"
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                    lineNumber: 50,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex items-center gap-4 pb-8 border-b border-neutral-100",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: `w-14 h-14 rounded-full bg-gradient-to-br ${current.color} flex items-center justify-center text-3xl shadow-md text-white`,
+                                            children: current.avatar
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                            lineNumber: 56,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                    className: "text-lg font-bold text-neutral-900",
+                                                    children: current.name
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                    lineNumber: 62,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                    className: "text-sm text-neutral-600",
+                                                    children: [
+                                                        "📍 ",
+                                                        current.city,
+                                                        " • ",
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-semibold text-fb8500",
+                                                            children: current.service
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                            lineNumber: 64,
+                                                            columnNumber: 39
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                    lineNumber: 63,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                            lineNumber: 61,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                    lineNumber: 55,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                    className: "flex flex-col sm:flex-row items-center justify-between gap-4 mt-6",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "flex items-center gap-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    onClick: handlePrev,
+                                                    className: "p-3 rounded-full bg-neutral-100 hover:bg-neutral-200 text-neutral-800 transition-all font-bold text-lg",
+                                                    "aria-label": "Previous testimonial",
+                                                    children: "←"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                    lineNumber: 72,
+                                                    columnNumber: 17
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    onClick: handleNext,
+                                                    className: "p-3 rounded-full bg-neutral-100 hover:bg-neutral-200 text-neutral-800 transition-all font-bold text-lg",
+                                                    "aria-label": "Next testimonial",
+                                                    children: "→"
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                    lineNumber: 79,
+                                                    columnNumber: 17
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
+                                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                            lineNumber: 71,
+                                            columnNumber: 15
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "flex flex-wrap items-center gap-2",
+                                            children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["TESTIMONIALS"].map((t, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                                    onClick: ()=>setCurrentIndex(idx),
+                                                    className: `px-3 py-1.5 rounded-full text-xs font-semibold transition-all ${currentIndex === idx ? "bg-fb8500 text-white shadow-md shadow-fb8500/25 scale-105" : "bg-neutral-100 text-neutral-700 hover:bg-neutral-200"}`,
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            children: t.avatar
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                            lineNumber: 100,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        " ",
+                                                        t.name.split(" ")[0]
+                                                    ]
+                                                }, t.name, true, {
+                                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                                    lineNumber: 91,
+                                                    columnNumber: 19
+                                                }, this))
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                            lineNumber: 89,
+                                            columnNumber: 15
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                                    lineNumber: 70,
+                                    columnNumber: 13
+                                }, this)
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                            lineNumber: 43,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                    lineNumber: 39,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+                lineNumber: 38,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/home/TestimonialsSection.tsx",
+        lineNumber: 19,
+        columnNumber: 5
+    }, this);
+}
+_s(TestimonialsSection, "tusBbsahUVevXfyh6oH5R6YDC9Q=");
+_c = TestimonialsSection;
+var _c;
+__turbopack_context__.k.register(_c, "TestimonialsSection");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+"[project]/src/lib/data.ts [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "ALL_ADS",
+    ()=>ALL_ADS,
+    "CATEGORIES",
+    ()=>CATEGORIES,
+    "FAQS",
+    ()=>FAQS,
+    "PARTNERS",
+    ()=>PARTNERS,
+    "POPULAR_METRO_CITIES",
+    ()=>POPULAR_METRO_CITIES,
+    "TESTIMONIALS",
+    ()=>TESTIMONIALS,
+    "TOP_CITIES",
+    ()=>TOP_CITIES
+]);
+const CATEGORIES = [
+    {
+        slug: "pest-control",
+        name: "Pest Control",
+        icon: "🐜",
+        description: "Herbal, termite, cockroach, rodent, bed bug & mosquito treatments",
+        popular: true
+    },
+    {
+        slug: "plumbing",
+        name: "Plumbing",
+        icon: "🔧",
+        description: "Leak repair, pipe fitting, sanitaryware & water tank installation",
+        popular: true
+    },
+    {
+        slug: "electrician",
+        name: "Electrician",
+        icon: "⚡",
+        description: "Wiring, short-circuit repairs, switchboards, MCBs & fans",
+        popular: true
+    },
+    {
+        slug: "ac-repair",
+        name: "AC Repair",
+        icon: "❄️",
+        description: "Split/window AC servicing, jet wash, gas refilling & installation",
+        popular: true
+    },
+    {
+        slug: "cleaning",
+        name: "Cleaning",
+        icon: "🧹",
+        description: "Full home deep cleaning, kitchen, bathroom & sofa sanitization",
+        popular: true
+    },
+    {
+        slug: "painting",
+        name: "Painting",
+        icon: "🎨",
+        description: "Interior & exterior wall painting, waterproofing & textures",
+        popular: true
+    },
+    {
+        slug: "carpentry",
+        name: "Carpentry",
+        icon: "🪵",
+        description: "Custom furniture, modular kitchens, door lock repair & polishing",
+        popular: true
+    },
+    {
+        slug: "hair-services",
+        name: "Hair Services",
+        icon: "💇",
+        description: "At-home haircuts, hair spa, keratin & styling",
+        popular: false
+    },
+    {
+        slug: "massage",
+        name: "Massage",
+        icon: "💆",
+        description: "Therapeutic body massage & relaxation therapy",
+        popular: false
+    },
+    {
+        slug: "salon",
+        name: "Salon",
+        icon: "💅",
+        description: "Facials, manicures, pedicures, waxing & bridal glow",
+        popular: false
+    },
+    {
+        slug: "movers",
+        name: "Movers",
+        icon: "📦",
+        description: "Household shifting, packing, vehicle transport & office relocation",
+        popular: true
+    },
+    {
+        slug: "home-repair",
+        name: "Home Repair",
+        icon: "🏠",
+        description: "General masonry, tiles, ceiling repair & waterproofing",
+        popular: false
+    },
+    {
+        slug: "construction",
+        name: "Construction",
+        icon: "🔨",
+        description: "Civil contractors, home renovation & structural building",
+        popular: false
+    },
+    {
+        slug: "glass-mirrors",
+        name: "Glass & Mirrors",
+        icon: "🪟",
+        description: "Shower cubicles, sliding glass partitions & designer mirrors",
+        popular: false
+    },
+    {
+        slug: "bathroom-fittings",
+        name: "Bathroom Fittings",
+        icon: "🛁",
+        description: "Geysers, showers, modern mixers & drainage solutions",
+        popular: false
+    },
+    {
+        slug: "doors-windows",
+        name: "Doors & Windows",
+        icon: "🚪",
+        description: "UPVC & aluminium doors, insect mesh & sliding tracks",
+        popular: false
+    },
+    {
+        slug: "stone-work",
+        name: "Stone Work",
+        icon: "🏗️",
+        description: "Marble polishing, granite cutting & stone floor restoration",
+        popular: false
+    },
+    {
+        slug: "makeup-artist",
+        name: "Makeup Artist",
+        icon: "💄",
+        description: "Bridal, reception, party makeup & saree draping",
+        popular: false
+    },
+    {
+        slug: "car-wash",
+        name: "Car Wash",
+        icon: "🚿",
+        description: "Doorstep foam wash, interior vacuuming & ceramic coating",
+        popular: false
+    },
+    {
+        slug: "car-repair",
+        name: "Car Repair",
+        icon: "🚗",
+        description: "Scheduled car maintenance, battery jumping & dent repairs",
+        popular: false
+    },
+    {
+        slug: "locksmith",
+        name: "Locksmith",
+        icon: "🔐",
+        description: "Key duplicating, digital locks & emergency unlocking",
+        popular: false
+    },
+    {
+        slug: "mobile-repair",
+        name: "Mobile Repair",
+        icon: "📱",
+        description: "Screen replacement, battery, camera & motherboard diagnostics",
+        popular: false
+    },
+    {
+        slug: "computer-repair",
+        name: "Computer Repair",
+        icon: "💻",
+        description: "Laptop repairs, Windows/Mac OS install, SSD speedup & recovery",
+        popular: false
+    },
+    {
+        slug: "tv-repair",
+        name: "TV Repair",
+        icon: "📺",
+        description: "LED/OLED display fix, sound issues, motherboard & wall mounting",
+        popular: false
+    }
+];
+const TOP_CITIES = [
+    {
+        name: "Mumbai",
+        state: "Maharashtra",
+        areasCount: 16,
+        icon: "🏙️",
+        popularAreas: [
+            "Andheri West",
+            "Bandra West",
+            "Powai",
+            "Juhu",
+            "Borivali",
+            "Dadar",
+            "Thane",
+            "Navi Mumbai"
+        ]
+    },
+    {
+        name: "Delhi",
+        state: "Delhi",
+        areasCount: 16,
+        icon: "🏛️",
+        popularAreas: [
+            "Rohini",
+            "Dwarka",
+            "Saket",
+            "Lajpat Nagar",
+            "Karol Bagh",
+            "Vasant Kunj",
+            "Connaught Place",
+            "Janakpuri"
+        ]
+    },
+    {
+        name: "Bangalore",
+        state: "Karnataka",
+        areasCount: 16,
+        icon: "🌴",
+        popularAreas: [
+            "Koramangala",
+            "Indiranagar",
+            "Whitefield",
+            "HSR Layout",
+            "Electronic City",
+            "Jayanagar",
+            "Marathahalli",
+            "BTM Layout"
+        ]
+    },
+    {
+        name: "Hyderabad",
+        state: "Telangana",
+        areasCount: 14,
+        icon: "💎",
+        popularAreas: [
+            "Gachibowli",
+            "Hitec City",
+            "Banjara Hills",
+            "Jubilee Hills",
+            "Kukatpally",
+            "Secunderabad",
+            "Madhapur",
+            "Kondapur"
+        ]
+    },
+    {
+        name: "Chennai",
+        state: "Tamil Nadu",
+        areasCount: 14,
+        icon: "🎭",
+        popularAreas: [
+            "T. Nagar",
+            "Adyar",
+            "Velachery",
+            "Anna Nagar",
+            "Mylapore",
+            "Tambaram",
+            "Besant Nagar",
+            "Nungambakkam"
+        ]
+    },
+    {
+        name: "Kolkata",
+        state: "West Bengal",
+        areasCount: 10,
+        icon: "🏰",
+        popularAreas: [
+            "Salt Lake",
+            "Park Street",
+            "New Town",
+            "Ballygunge",
+            "Behala",
+            "Howrah",
+            "Alipore",
+            "Dum Dum"
+        ]
+    },
+    {
+        name: "Pune",
+        state: "Maharashtra",
+        areasCount: 12,
+        icon: "🎓",
+        popularAreas: [
+            "Kothrud",
+            "Viman Nagar",
+            "Hinjewadi",
+            "Baner",
+            "Wakad",
+            "Koregaon Park",
+            "Aundh",
+            "Hadapsar"
+        ]
+    },
+    {
+        name: "Ahmedabad",
+        state: "Gujarat",
+        areasCount: 11,
+        icon: "🌻",
+        popularAreas: [
+            "Satellite",
+            "Bodakdev",
+            "Vastrapur",
+            "Navrangpura",
+            "SG Highway",
+            "Maninagar",
+            "Prahlad Nagar"
+        ]
+    },
+    {
+        name: "Jaipur",
+        state: "Rajasthan",
+        areasCount: 8,
+        icon: "👑",
+        popularAreas: [
+            "Malviya Nagar",
+            "Vaishali Nagar",
+            "Mansarovar",
+            "C Scheme",
+            "Raja Park",
+            "Tonk Road"
+        ]
+    },
+    {
+        name: "Surat",
+        state: "Gujarat",
+        areasCount: 8,
+        icon: "💎",
+        popularAreas: [
+            "Adajan",
+            "Vesu",
+            "Piplod",
+            "Varachha",
+            "Katargam",
+            "City Light"
+        ]
+    },
+    {
+        name: "Lucknow",
+        state: "Uttar Pradesh",
+        areasCount: 8,
+        icon: "🕌",
+        popularAreas: [
+            "Gomti Nagar",
+            "Hazratganj",
+            "Aliganj",
+            "Indira Nagar",
+            "Mahanagar",
+            "Vikas Nagar"
+        ]
+    },
+    {
+        name: "Kochi",
+        state: "Kerala",
+        areasCount: 8,
+        icon: "🥥",
+        popularAreas: [
+            "Kakkanad",
+            "Edappally",
+            "Marine Drive",
+            "Fort Kochi",
+            "Palarivattom",
+            "Vyttila"
+        ]
+    },
+    {
+        name: "Goa",
+        state: "Goa",
+        areasCount: 6,
+        icon: "🏖️",
+        popularAreas: [
+            "Panaji",
+            "Margao",
+            "Calangute",
+            "Candolim",
+            "Mapusa",
+            "Vasco"
+        ]
+    },
+    {
+        name: "Indore",
+        state: "Madhya Pradesh",
+        areasCount: 7,
+        icon: "🍽️",
+        popularAreas: [
+            "Vijay Nagar",
+            "Palasia",
+            "Rajwada",
+            "Bhanwar Kuan",
+            "AB Road"
+        ]
+    },
+    {
+        name: "Bhopal",
+        state: "Madhya Pradesh",
+        areasCount: 7,
+        icon: "🌊",
+        popularAreas: [
+            "MP Nagar",
+            "Arera Colony",
+            "Kolar Road",
+            "Shahpura",
+            "TT Nagar"
+        ]
+    },
+    {
+        name: "Patna",
+        state: "Bihar",
+        areasCount: 6,
+        icon: "📜",
+        popularAreas: [
+            "Boring Road",
+            "Kankarbagh",
+            "Bailey Road",
+            "Patliputra",
+            "Rajendra Nagar"
+        ]
+    },
+    {
+        name: "Vadodara",
+        state: "Gujarat",
+        areasCount: 6,
+        icon: "🏛️",
+        popularAreas: [
+            "Alkapuri",
+            "Manjalpur",
+            "Karelibaug",
+            "Gotri",
+            "Sayajigunj"
+        ]
+    },
+    {
+        name: "Coimbatore",
+        state: "Tamil Nadu",
+        areasCount: 6,
+        icon: "🏭",
+        popularAreas: [
+            "RS Puram",
+            "Gandhipuram",
+            "Peelamedu",
+            "Saibaba Colony",
+            "Saravanampatti"
+        ]
+    },
+    {
+        name: "Nagpur",
+        state: "Maharashtra",
+        areasCount: 6,
+        icon: "🍊",
+        popularAreas: [
+            "Dharampeth",
+            "Ramdaspeth",
+            "Sitabuldi",
+            "Sadar",
+            "Wardha Road"
+        ]
+    },
+    {
+        name: "Thiruvananthapuram",
+        state: "Kerala",
+        areasCount: 5,
+        icon: "🌴",
+        popularAreas: [
+            "Kowdiar",
+            "Sasthamangalam",
+            "Kazhakoottam",
+            "Technopark",
+            "Vellayambalam"
+        ]
+    },
+    {
+        name: "Chandigarh",
+        state: "Chandigarh",
+        areasCount: 5,
+        icon: "🌸",
+        popularAreas: [
+            "Sector 17",
+            "Sector 35",
+            "Sector 22",
+            "Manimajra",
+            "Industrial Area"
+        ]
+    },
+    {
+        name: "Mohali",
+        state: "Punjab",
+        areasCount: 5,
+        icon: "⚡",
+        popularAreas: [
+            "Phase 7",
+            "Phase 5",
+            "Phase 3B2",
+            "Sector 70",
+            "Aerocity"
+        ]
+    }
+];
+const POPULAR_METRO_CITIES = [
+    "Mumbai",
+    "Delhi",
+    "Bangalore",
+    "Hyderabad",
+    "Chennai",
+    "Kolkata",
+    "Pune",
+    "Ahmedabad",
+    "Jaipur",
+    "Lucknow",
+    "Chandigarh",
+    "Gurgaon",
+    "Kochi",
+    "Surat",
+    "Nagpur"
+];
+const ALL_ADS = [
+    {
+        id: "cmqdfo5ga000jd1yxo70irbzb",
+        title: "Herbal Pest Control — Cockroach & Termite",
+        categorySlug: "pest-control",
+        categoryName: "Pest Control",
+        categoryIcon: "🐜",
+        price: "₹899",
+        priceNum: 899,
+        area: "Rohini",
+        city: "Delhi",
+        state: "Delhi",
+        views: 160,
+        postedAgo: "4 months ago",
+        featured: true,
+        description: "Safe, odourless, child & pet-friendly pest control treatment. Specializing in cockroaches, termites, bed bugs, and mosquitoes. 6 months warranty on all treatments.",
+        fullDetails: [
+            "100% Herbal & Bayer certified chemicals",
+            "No need to vacate kitchen or home during spray",
+            "Termite drill-fill-seal subterranean treatment with 5-year guarantee",
+            "Gel baiting for German and American cockroaches",
+            "Government licensed applicators with proper safety equipment"
+        ],
+        provider: {
+            name: "Amit Verma",
+            initials: "AV",
+            city: "Delhi",
+            memberSince: "2026",
+            rating: 4.9,
+            reviewsCount: 38,
+            phone: "9876543212",
+            whatsapp: "9876543212",
+            verified: true
+        },
+        highlights: [
+            "Herbal & Odourless",
+            "6-Month Warranty",
+            "Child & Pet Safe",
+            "Free Inspection"
+        ]
+    },
+    {
+        id: "cmqdfo5qo000ld1yxv71q20jl",
+        title: "Deep Home Cleaning — Kitchen & Bathroom",
+        categorySlug: "cleaning",
+        categoryName: "Cleaning",
+        categoryIcon: "🧹",
+        price: "₹1,499",
+        priceNum: 1499,
+        area: "Bandra West",
+        city: "Mumbai",
+        state: "Maharashtra",
+        views: 187,
+        postedAgo: "4 months ago",
+        featured: true,
+        description: "Sparkling deep cleaning service for homes and offices. Trained staff, eco-friendly products, and complete sanitization. Perfect before festivals or moving in/out.",
+        fullDetails: [
+            "Kitchen de-greasing, chimney, stove & cabinet cleaning",
+            "Bathroom descaling, tile scrubbing, mirror & sanitization",
+            "Industrial single-disc scrubbing machine & vacuum",
+            "Trained, background-checked professional cleaners"
+        ],
+        provider: {
+            name: "Priya Sharma",
+            initials: "PS",
+            city: "Mumbai",
+            memberSince: "2026",
+            rating: 4.8,
+            reviewsCount: 42,
+            phone: "9876543211",
+            whatsapp: "9876543211",
+            verified: true
+        },
+        highlights: [
+            "Eco-friendly Chemicals",
+            "Deep Sanitization",
+            "Industrial Equipment",
+            "100% Guaranteed"
+        ]
+    },
+    {
+        id: "cmqdfo564000hd1yxpl07wvff",
+        title: "Split & Window AC Service + Gas Refilling",
+        categorySlug: "ac-repair",
+        categoryName: "AC Repair",
+        categoryIcon: "❄️",
+        price: "₹499",
+        priceNum: 499,
+        area: "Koramangala",
+        city: "Bangalore",
+        state: "Karnataka",
+        views: 19,
+        postedAgo: "4 months ago",
+        featured: true,
+        description: "Professional AC servicing, gas refilling, installation and uninstallation. We handle all brands — Voltas, LG, Samsung, Daikin. Free inspection on first visit. Cooling guaranteed!",
+        fullDetails: [
+            "High-pressure jet wash for cooling coils and outdoor condenser",
+            "R32, R410A, and R22 gas top-up with pressure gauge testing",
+            "Filter cleaning, copper pipe flare check, PCB repair",
+            "90-day cooling service guarantee"
+        ],
+        provider: {
+            name: "Rajesh Kumar",
+            initials: "RK",
+            city: "Bangalore",
+            memberSince: "2026",
+            rating: 5.0,
+            reviewsCount: 29,
+            phone: "9876543213",
+            whatsapp: "9876543213",
+            verified: true
+        },
+        highlights: [
+            "High-Pressure Jet Wash",
+            "Genuine Spare Parts",
+            "30-Day Cooling Guarantee",
+            "All AC Brands"
+        ]
+    },
+    {
+        id: "cmqdfo4m0000fd1yxlkt6g5ed",
+        title: "Expert Plumber — 24/7 Emergency Service",
+        categorySlug: "plumbing",
+        categoryName: "Plumbing",
+        categoryIcon: "🔧",
+        price: "₹299/hr",
+        priceNum: 299,
+        area: "Andheri West",
+        city: "Mumbai",
+        state: "Maharashtra",
+        views: 165,
+        postedAgo: "4 months ago",
+        featured: true,
+        description: "Over 12 years of experience in pipe fitting, leak repair, bathroom fittings, and water tank installation. Quick response, fair pricing, and guaranteed work. Available all days including holidays.",
+        fullDetails: [
+            "Concealed pipe leakage detection and fixing",
+            "Jaquar, Kohler, Hindware mixer tap & shower installation",
+            "Water tank cleaning, motor connection & pressure pump setup",
+            "Emergency blockage removal and drainage clearing"
+        ],
+        provider: {
+            name: "Rahul Sharma",
+            initials: "RS",
+            city: "Mumbai",
+            memberSince: "2026",
+            rating: 4.9,
+            reviewsCount: 54,
+            phone: "9876543210",
+            whatsapp: "9876543210",
+            verified: true
+        },
+        highlights: [
+            "24/7 Availability",
+            "12+ Years Exp",
+            "Fixed Upfront Price",
+            "Guaranteed Work"
+        ]
+    },
+    {
+        id: "cmqdfo6as000pd1yxcjvkxjgw",
+        title: "Custom Carpentry & Furniture Repair",
+        categorySlug: "carpentry",
+        categoryName: "Carpentry",
+        categoryIcon: "🔨",
+        price: "₹600",
+        priceNum: 600,
+        area: "Gachibowli",
+        city: "Hyderabad",
+        state: "Telangana",
+        views: 12,
+        postedAgo: "4 months ago",
+        featured: false,
+        description: "Modular kitchen, wardrobes, beds, and furniture repair. Quality wood, neat finishing, on-time delivery. Free design consultation at your home.",
+        fullDetails: [
+            "Custom hydraulic beds, wardrobes & TV units",
+            "Hinge replacement, drawer channels & sliding door repair",
+            "Teak wood, engineered plywood & laminate finish",
+            "Door lock installation & handle fittings"
+        ],
+        provider: {
+            name: "Suresh Rao",
+            initials: "SR",
+            city: "Hyderabad",
+            memberSince: "2026",
+            rating: 4.7,
+            reviewsCount: 19,
+            phone: "9876543214",
+            whatsapp: "9876543214",
+            verified: true
+        },
+        highlights: [
+            "Free Home Consultation",
+            "Quality Wood",
+            "Neat Finish",
+            "Warranty on Fitting"
+        ]
+    },
+    {
+        id: "cmqdfo60r000nd1yx81iy045w",
+        title: "Licensed Electrician — Wiring & Repairs",
+        categorySlug: "electrician",
+        categoryName: "Electrician",
+        categoryIcon: "💡",
+        price: "₹350/hr",
+        priceNum: 350,
+        area: "T. Nagar",
+        city: "Chennai",
+        state: "Tamil Nadu",
+        views: 180,
+        postedAgo: "4 months ago",
+        featured: false,
+        description: "Complete electrical solutions — new wiring, fan/light installation, MCB & inverter setup, short-circuit fixing. Safety-certified and insured work.",
+        fullDetails: [
+            "Concealed copper wiring & distribution box setup",
+            "Inverter & battery wiring installation",
+            "Ceiling fan, chandelier, LED panel light fittings",
+            "Tripping MCB troubleshooting & earth leakage testing"
+        ],
+        provider: {
+            name: "Karthik S",
+            initials: "KS",
+            city: "Chennai",
+            memberSince: "2026",
+            rating: 4.8,
+            reviewsCount: 31,
+            phone: "9876543215",
+            whatsapp: "9876543215",
+            verified: true
+        },
+        highlights: [
+            "Govt Licensed",
+            "Insured Work",
+            "Safety First",
+            "Prompt Service"
+        ]
+    },
+    // Additional Pest Control & Home Services Listings for Rich Coverage
+    {
+        id: "cmqdfo7pest01",
+        title: "Subterranean Termite Treatment & Anti-Termite Piping",
+        categorySlug: "pest-control",
+        categoryName: "Pest Control",
+        categoryIcon: "🐜",
+        price: "₹2,499",
+        priceNum: 2499,
+        area: "Andheri East",
+        city: "Mumbai",
+        state: "Maharashtra",
+        views: 94,
+        postedAgo: "2 months ago",
+        featured: true,
+        description: "Comprehensive drill-fill-seal termite control for residential & commercial spaces. Pre-construction & post-construction anti-termite treatment with 5 years written warranty.",
+        fullDetails: [
+            "Bayer Premise chemical barrier treatment",
+            "Drilling 12mm holes at 1-foot intervals along skirting walls",
+            "Woodwork emulsion spray on door frames and kitchen cabinets",
+            "5-Year renewable service guarantee"
+        ],
+        provider: {
+            name: "Sunil Shinde",
+            initials: "SS",
+            city: "Mumbai",
+            memberSince: "2026",
+            rating: 4.9,
+            reviewsCount: 62,
+            phone: "9876543220",
+            whatsapp: "9876543220",
+            verified: true
+        },
+        highlights: [
+            "5-Year Guarantee",
+            "Bayer Certified",
+            "Drill-Fill-Seal",
+            "Pre & Post Construction"
+        ]
+    },
+    {
+        id: "cmqdfo7pest02",
+        title: "Bed Bug Thermal & Chemical Eradication",
+        categorySlug: "pest-control",
+        categoryName: "Pest Control",
+        categoryIcon: "🐜",
+        price: "₹1,199",
+        priceNum: 1199,
+        area: "Indiranagar",
+        city: "Bangalore",
+        state: "Karnataka",
+        views: 78,
+        postedAgo: "1 month ago",
+        featured: false,
+        description: "Two-step intensive bed bug treatment: high heat steaming of mattresses & sofa cushions, followed by targeted contact spray. Complete elimination of eggs and nymphs.",
+        fullDetails: [
+            "Steam extraction kills hidden bed bug eggs instantly",
+            "Micro-encapsulated spray on bed frames, headboards and seams",
+            "Complimentary second follow-up spray after 14 days",
+            "Odour-free and non-staining solution"
+        ],
+        provider: {
+            name: "Manoj Gowda",
+            initials: "MG",
+            city: "Bangalore",
+            memberSince: "2026",
+            rating: 4.8,
+            reviewsCount: 45,
+            phone: "9876543221",
+            whatsapp: "9876543221",
+            verified: true
+        },
+        highlights: [
+            "2-Visit Treatment",
+            "Steam & Spray",
+            "Mattress Safe",
+            "Free Follow-up"
+        ]
+    },
+    {
+        id: "cmqdfo7pest03",
+        title: "Kitchen Cockroach Gel & Drain Clean Treatment",
+        categorySlug: "pest-control",
+        categoryName: "Pest Control",
+        categoryIcon: "🐜",
+        price: "₹699",
+        priceNum: 699,
+        area: "Madhapur",
+        city: "Hyderabad",
+        state: "Telangana",
+        views: 112,
+        postedAgo: "3 weeks ago",
+        featured: false,
+        description: "Targeted fipronil dot gel baiting applied to kitchen cabinet hinges, refrigerator motor, sink bottoms, and micro-cracks. Clears German roaches without food removal.",
+        fullDetails: [
+            "Dot gel baiting ensures roaches take bait back to nest",
+            "Drain pipe foaming to stop cockroach entry from sewage",
+            "Zero smell, 100% kitchen safe",
+            "Long-lasting residual protection for 6 months"
+        ],
+        provider: {
+            name: "Naveen Reddy",
+            initials: "NR",
+            city: "Hyderabad",
+            memberSince: "2026",
+            rating: 4.9,
+            reviewsCount: 33,
+            phone: "9876543222",
+            whatsapp: "9876543222",
+            verified: true
+        },
+        highlights: [
+            "No Food Relocation",
+            "Fipronil Gel Baiting",
+            "Drain Protection",
+            "6 Months Relief"
+        ]
+    },
+    {
+        id: "cmqdfo7pest04",
+        title: "Mosquito Fogging & Larvicide Garden Treatment",
+        categorySlug: "pest-control",
+        categoryName: "Pest Control",
+        categoryIcon: "🐜",
+        price: "₹1,299",
+        priceNum: 1299,
+        area: "Adyar",
+        city: "Chennai",
+        state: "Tamil Nadu",
+        views: 65,
+        postedAgo: "2 weeks ago",
+        featured: false,
+        description: "Thermal thermal fogging for compound areas, gardens, balconies, and basement parking. Eco-friendly larvicide granules for drains and stagnant water.",
+        fullDetails: [
+            "Thermal fogging kills active adult mosquitoes immediately",
+            "Anti-larval treatment stops breeding in gutters and plants",
+            "Dengue, Malaria, and Chikungunya prevention",
+            "Ideal for apartments, villas, and society compounds"
+        ],
+        provider: {
+            name: "Senthil Nathan",
+            initials: "SN",
+            city: "Chennai",
+            memberSince: "2026",
+            rating: 4.7,
+            reviewsCount: 22,
+            phone: "9876543223",
+            whatsapp: "9876543223",
+            verified: true
+        },
+        highlights: [
+            "Thermal Fogging",
+            "Anti-Larval Granules",
+            "Dengue Prevention",
+            "Garden & Balcony Safe"
+        ]
+    },
+    {
+        id: "cmqdfo7clean01",
+        title: "Bathroom Descaling & Deep Sanitization",
+        categorySlug: "cleaning",
+        categoryName: "Cleaning",
+        categoryIcon: "🧹",
+        price: "₹499",
+        priceNum: 499,
+        area: "Satellite",
+        city: "Ahmedabad",
+        state: "Gujarat",
+        views: 89,
+        postedAgo: "1 month ago",
+        featured: false,
+        description: "Hard water scale removal from shower taps, glass partitions, wall tiles, and commode descaling. Chemical-free steam sterilization for bacteria-free bathrooms.",
+        fullDetails: [
+            "Taski high-grade descaling solutions",
+            "Buffing of chromium bathroom fittings to showroom shine",
+            "Steam cleaning kills 99.9% germs in corners",
+            "Exhaust fan and tile grout deep scrub"
+        ],
+        provider: {
+            name: "Bhavin Patel",
+            initials: "BP",
+            city: "Ahmedabad",
+            memberSince: "2026",
+            rating: 4.8,
+            reviewsCount: 27,
+            phone: "9876543224",
+            whatsapp: "9876543224",
+            verified: true
+        },
+        highlights: [
+            "Hard Water Scale Removal",
+            "Steam Sterilization",
+            "Chrome Polish",
+            "Tile Grout Scrubbing"
+        ]
+    },
+    {
+        id: "cmqdfo7mover01",
+        title: "Professional Packers & Movers — Intercity & Local Shifting",
+        categorySlug: "movers",
+        categoryName: "Movers",
+        categoryIcon: "📦",
+        price: "₹3,999",
+        priceNum: 3999,
+        area: "Hinjewadi",
+        city: "Pune",
+        state: "Maharashtra",
+        views: 145,
+        postedAgo: "3 months ago",
+        featured: true,
+        description: "5-layer safe bubble wrap packaging, carton boxes, skilled loading & unloading staff, GPS-tracked covered trucks. Zero damage transit assurance.",
+        fullDetails: [
+            "Multi-layer bubble wrap for TV, fridge, crockery and furniture",
+            "Dismantling & reassembly of beds and wardrobes included",
+            "Covered containers with weather protection",
+            "Full transit insurance coverage optional"
+        ],
+        provider: {
+            name: "Sachin Kadam",
+            initials: "SK",
+            city: "Pune",
+            memberSince: "2026",
+            rating: 4.9,
+            reviewsCount: 88,
+            phone: "9876543225",
+            whatsapp: "9876543225",
+            verified: true
+        },
+        highlights: [
+            "5-Layer Packaging",
+            "Dismantle & Assemble",
+            "GPS Tracking",
+            "Transit Insurance"
+        ]
+    }
+];
+const TESTIMONIALS = [
+    {
+        name: "Priya Sharma",
+        city: "Mumbai",
+        rating: 5,
+        text: "Excellent plumbing service! The professional was courteous, efficient, and fixed the issue promptly. Highly recommended!",
+        service: "Plumbing",
+        avatar: "👩‍💼",
+        color: "from-blue-600 to-blue-400"
+    },
+    {
+        name: "Rajesh Kumar",
+        city: "Bangalore",
+        rating: 5,
+        text: "AC repair was done perfectly. Great communication throughout and very professional approach. Will book again!",
+        service: "AC Repair",
+        avatar: "👨‍💼",
+        color: "from-fb8500 to-ffb81c"
+    },
+    {
+        name: "Anita Desai",
+        city: "Delhi",
+        rating: 5,
+        text: "The cleaning service was thorough and the team was very polite. My house looks brand new now!",
+        service: "Home Cleaning",
+        avatar: "👩‍💼",
+        color: "from-blue-600 to-blue-400"
+    },
+    {
+        name: "Vikram Patel",
+        city: "Pune",
+        rating: 5,
+        text: "Electrician did excellent work. Very knowledgeable and completed the job on time with quality results.",
+        service: "Electrician",
+        avatar: "👨‍💼",
+        color: "from-fb8500 to-ffb81c"
+    }
+];
+const FAQS = [
+    {
+        icon: "🔍",
+        question: "How does WrkZone help me find the right professional?",
+        answer: "WrkZone connects you with verified professionals in your area. You can search by service type, location, and ratings to find the perfect match for your needs."
+    },
+    {
+        icon: "🛡️",
+        question: "Is it safe to hire professionals on WrkZone?",
+        answer: "Yes! All our professionals are verified and reviewed by customers. We also provide secure payment options and a guarantee for peace of mind."
+    },
+    {
+        icon: "📝",
+        question: "How do I post my first service?",
+        answer: "Posting is free and takes less than 2 minutes. Go to 'Post a Service', fill in details, add photos, and publish. You'll immediately start receiving inquiries."
+    },
+    {
+        icon: "⭐",
+        question: "What if I'm not satisfied with the service?",
+        answer: "We offer a 100% satisfaction guarantee. If you're unhappy with the service, contact our support team and we'll help resolve the issue."
+    },
+    {
+        icon: "👤",
+        question: "How are professionals rated and reviewed?",
+        answer: "After service completion, customers can rate professionals on quality, punctuality, and professionalism. These reviews help others make informed decisions."
+    },
+    {
+        icon: "💳",
+        question: "Are there any hidden fees?",
+        answer: "No hidden fees! We're transparent about all costs. Our commission is clearly stated, and there are no surprise charges."
+    },
+    {
+        icon: "⏱️",
+        question: "How long does it take to complete a job?",
+        answer: "It depends on the service type. Small tasks can be completed in hours, while larger projects may take days. You can discuss timelines with the professional."
+    },
+    {
+        icon: "🗓️",
+        question: "Can I schedule services in advance?",
+        answer: "Yes! You can book services for a date that works best for you. Professionals will confirm the appointment based on their availability."
+    },
+    {
+        icon: "💬",
+        question: "Can I communicate directly with professionals?",
+        answer: "Absolutely! Once you connect with a professional on WrkZone, you can message them directly to discuss details, clarify requirements, and finalize schedules."
+    },
+    {
+        icon: "🏆",
+        question: "What makes a professional 'verified'?",
+        answer: "Verified professionals have passed our screening process, including identity verification, background checks, and skill validation. This ensures quality and safety."
+    },
+    {
+        icon: "📍",
+        question: "Does WrkZone work in my city?",
+        answer: "WrkZone operates in 22+ major Indian cities. Check our 'Top Metro Cities' section or search your location to see available services."
+    },
+    {
+        icon: "🔄",
+        question: "What's your refund policy?",
+        answer: "If you're not satisfied with the service, we offer a full refund within 7 days. Our support team will help process it quickly and fairly."
+    }
+];
+const PARTNERS = [
+    {
+        name: "TechCorp",
+        icon: "💻"
+    },
+    {
+        name: "BuildCo",
+        icon: "🏗️"
+    },
+    {
+        name: "GreenLiving",
+        icon: "🌱"
+    },
+    {
+        name: "SafeGuard",
+        icon: "🔒"
+    },
+    {
+        name: "QuickServe",
+        icon: "⚡"
+    },
+    {
+        name: "ProCare",
+        icon: "👨‍⚕️"
+    }
+];
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
+]})(),
+"[project]/node_modules/next/navigation.js [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
+
+module.exports = __turbopack_context__.r("[project]/node_modules/next/dist/client/components/navigation.js [app-client] (ecmascript)");
+}),
+]);
+
+//# sourceMappingURL=_18nvjmcumqn_-._.js.map
