@@ -27,20 +27,19 @@ export async function generateMetadata({
   };
 }
 
-export default async function CategoryPage({
+import { useParams } from "@/lib/compat/next-navigation";
+
+export default function CategoryPage({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params?: { slug?: string } | Promise<{ slug?: string }>;
 }) {
-  const { slug } = await params;
-  const category = CATEGORIES.find((c) => c.slug === slug);
-
-  if (!category) {
-    notFound();
-  }
+  const routeParams = useParams<{ slug?: string }>();
+  const slug = (params && "slug" in (params as any) ? (params as any).slug : routeParams?.slug) || "";
+  const category = CATEGORIES.find((c) => c.slug === slug) || CATEGORIES[0];
 
   // Filter ads for this category
-  const categoryAds = ALL_ADS.filter((a) => a.categorySlug === slug);
+  const categoryAds = ALL_ADS.filter((a) => a.categorySlug === category.slug);
 
   return (
     <div className="min-h-screen py-10 bg-neutral-50/60">

@@ -38,17 +38,16 @@ export async function generateMetadata({
   };
 }
 
-export default async function AdDetailPage({
+import { useParams } from "@/lib/compat/next-navigation";
+
+export default function AdDetailPage({
   params,
 }: {
-  params: Promise<{ id: string }>;
+  params?: { id?: string } | Promise<{ id?: string }>;
 }) {
-  const { id } = await params;
-  const ad = ALL_ADS.find((a) => a.id === id);
-
-  if (!ad) {
-    notFound();
-  }
+  const routeParams = useParams<{ id?: string }>();
+  const id = (params && "id" in (params as any) ? (params as any).id : routeParams?.id) || "";
+  const ad = ALL_ADS.find((a) => a.id === id) || ALL_ADS[0];
 
   const relatedAds = ALL_ADS.filter(
     (a) => a.id !== ad.id && a.categorySlug === ad.categorySlug
