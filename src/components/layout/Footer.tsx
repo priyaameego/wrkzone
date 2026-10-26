@@ -17,16 +17,23 @@ export function Footer() {
   };
 
   return (
-    <footer className="relative mt-24 overflow-hidden">
-      {/* Background Gradients & Accents */}
-      <div className="absolute inset-0 bg-gradient-to-br from-blue-950 via-slate-900 to-black -z-20" />
-      <div className="absolute -top-40 -left-40 w-80 h-80 bg-fb8500/10 rounded-full blur-3xl -z-10" />
-      <div className="absolute -bottom-40 -right-40 w-80 h-80 bg-blue-600/10 rounded-full blur-3xl -z-10" />
+    <footer className="relative mt-24 overflow-hidden bg-[#060b19] text-white isolate">
+      {/* Background Gradients & Accents with isolate so it never blends with body bg */}
+      <div className="absolute inset-0 bg-gradient-to-br from-[#0c1633] via-[#070d1e] to-[#040711] -z-10" />
+      <div className="absolute -top-40 -left-40 w-80 h-80 bg-[#fb8500]/10 rounded-full blur-3xl -z-10 pointer-events-none" />
+      <div className="absolute -bottom-40 -right-40 w-80 h-80 bg-blue-600/15 rounded-full blur-3xl -z-10 pointer-events-none" />
+      <div
+        className="absolute inset-0 pointer-events-none -z-10"
+        style={{
+          background:
+            "radial-gradient(ellipse 90% 50% at 50% 0%, rgba(29, 78, 216, 0.22) 0%, rgba(6, 11, 25, 0) 75%)",
+        }}
+      />
       <div className="h-1 bg-gradient-to-r from-blue-600 via-fb8500 to-blue-600" />
 
-      <div className="mx-auto max-w-7xl px-6 py-16">
+      <div className="mx-auto max-w-7xl px-6 py-16 relative z-10">
         {/* Newsletter Section */}
-        <div className="mb-16 rounded-2xl bg-gradient-to-r from-blue-900/40 to-fb8500/40 backdrop-blur-md p-8 border border-white/10 hover:border-white/20 transition-all">
+        <div className="mb-16 rounded-2xl bg-gradient-to-r from-blue-900/60 to-fb8500/40 backdrop-blur-md p-8 border border-white/10 hover:border-white/20 transition-all shadow-2xl">
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <h3 className="text-2xl font-extrabold text-white mb-2 font-serif">

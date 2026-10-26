@@ -23,8 +23,12 @@ export const metadata: Metadata = {
     canonical: "/"
   },
   icons: {
-    icon: "/favicon.ico",
-    apple: "/logo.png"
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon.ico" },
+    ],
+    apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "WrkZone — Find Trusted Local Services & Post Free Ads | #1 Marketplace in India",
